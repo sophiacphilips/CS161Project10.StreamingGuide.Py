@@ -1,7 +1,7 @@
 #Author: Sophia Philips
 #GitHub Username: sophiacphilips
 #Date: 11/30/22
-#This code is designed to
+#This code is designed to organize a list of streaming services and the movies they offer (with info about movies).
 
 class Movie: #defines class movie
     def __init__(self, title, genre, director, year):
